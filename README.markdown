@@ -1,7 +1,7 @@
 This module provides classes that can be used to set agg_filter's for
 matplotlib.
 
-![sample](https://raw.github.com/leejjoon/mpl_agg_filter/master/doc/_static/example.png)
+![sample](https://raw.github.com/leejjoon/mpl_toolkits.agg_filter/master/doc/_static/example.png)
 
 For example, ::
 
